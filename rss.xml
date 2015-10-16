@@ -4,7 +4,7 @@
         <description><![CDATA[bouveng]]></description>
         <link>https://thegrid.ai/bouveng/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 17:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2015 17:15:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bouveng/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Testing]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bouveng/testing/index.html</link>
             <guid isPermaLink="false">7bbf09a9-89e7-4027-8faa-884c2f620679</guid>
             <pubDate>Fri, 16 Oct 2015 17:05:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Helmut Newton, Fat Hand and Dollars, Mon...]]></title>
+            <description><![CDATA[<article><h1>Helmut Newton, Fat Hand and Dollars, Mon...</h1><p>Helmut Newton, Fat Hand and Dollars, Monte Carlo 1986</p><img src="http://40.media.tumblr.com/tumblr_m4e23aAVQK1qaz1hso1_500.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bouveng/helmut-newton-fat-hand-and-dollars-mon/index.html</link>
+            <guid isPermaLink="false">9bdb404b-8eb2-4975-badc-958e6dffa80b</guid>
+            <pubDate>Fri, 16 Oct 2015 17:14:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
