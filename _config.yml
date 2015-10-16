@@ -1,6 +1,6 @@
 name: bouveng
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 title: bouveng
 cta:
   domain: null
@@ -22,9 +22,9 @@ color:
     - '#6d6d6d'
     - '#3b3b3b'
   brandStrength: 1
-  lightness: 0.3125
-  saturation: 0.3125
-  rhythmicContrast: 0.75
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: engagement
     item: 7bbf09a9-89e7-4027-8faa-884c2f620679
