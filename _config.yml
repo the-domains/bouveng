@@ -1,32 +1,44 @@
-name: bouveng
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.49337
 title: bouveng
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose:
+  - name: engagement
+    url: null
+    item: 7bbf09a9-89e7-4027-8faa-884c2f620679
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5988185
+  brandStrength: 0
+  lightness: 0.1960257
   brandColors:
     - '#ffffff'
     - '#f7b2c4'
     - '#e53242'
     - '#f48092'
     - '#77a1d2'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.6875
-  rhythmicContrast: 0.5
-purpose:
-  - name: engagement
-    item: 7bbf09a9-89e7-4027-8faa-884c2f620679
-    url: null
+  rhythmicContrast: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: bouveng
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0.7900108
