@@ -1,40 +1,37 @@
 title: bouveng
-purpose:
-  - name: engagement
-    url: null
-    item: 7bbf09a9-89e7-4027-8faa-884c2f620679
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.82116
   brandStrength: 1
-  lightness: 0.1960257
+  rhythmicContrast: 1
   brandColors:
     - '#E6E7BB'
     - '#8B8177'
     - '#7B645C'
     - '#170201'
     - '#A09E98'
-  rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
+  lightness: 0.1960257
 analytics:
   twitter: null
   google: null
   facebook: null
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: bouveng
 opengraph:
   image: null
